@@ -19,4 +19,10 @@ public class Genero {
                 ", nome='" + nome + '\'' +
                 '}';
     }
+
+    public void setId(int anInt) {
+    }
+
+    public void setNome(String string) {
+    }
 }

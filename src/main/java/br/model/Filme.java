@@ -9,7 +9,7 @@ public class Filme {
     public Filme() {
     }
 
-    public Filme(Integer id, String nome, int duracao, Genero genero) {
+    public Filme(Integer id, String nome) {
         this.id = id;
         this.nome = nome;
         this.duracao = duracao;

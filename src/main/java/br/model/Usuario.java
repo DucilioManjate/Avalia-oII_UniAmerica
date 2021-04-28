@@ -9,7 +9,7 @@ public class Usuario {
     public Usuario() {
     }
 
-    public Usuario(Integer id, String email, String senha, Filme filme) {
+    public Usuario(Integer id, String email, String senha) {
         this.id = id;
         this.email = email;
         this.senha = senha;
